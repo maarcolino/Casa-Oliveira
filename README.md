@@ -38,7 +38,7 @@
 !["Diagrama casa oliveira"](diagrama.png)
  
 #### Esquema de tabelas para o banco de dados
-!["Esquema Casa Oliveira"](Esquemacasaoliveira.png)
+!["Esquema Casa Oliveira"](esquemacasaoliveira.png)
 
 #### Modelo físico: código que gera o banco de dados
 
